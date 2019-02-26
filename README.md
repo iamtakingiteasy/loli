@@ -41,7 +41,9 @@ Then in the build directory you can find files: ``loli`` & ``libloli.so`` (``lol
 - Text fucker <http://txlyre.ml/files/loli/examples/text_fucker.li>
 
 
-# Really
-Try checking https://fascinatedbox.gitlab.io/lily-docs/ and https://gitlab.com/FascinatedBox/lily -- it is really nice.
+# But really
+Try checking https://fascinatedbox.gitlab.io/lily-docs/ and https://gitlab.com/FascinatedBox/lily -- it is indeed nice.
 
 Very robust alternative to both lua syntax and ES6 shenanigans.
+
+My next embedded language / (unsigned)-1.
