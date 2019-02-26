@@ -39,3 +39,9 @@ Then in the build directory you can find files: ``loli`` & ``libloli.so`` (``lol
 - Simple OpenGL application <https://github.com/VenityStudio/LoliGL#example-creating-window>
 - Brainfuck interpreter <http://txlyre.ml/files/loli/examples/bf.li>
 - Text fucker <http://txlyre.ml/files/loli/examples/text_fucker.li>
+
+
+# Really
+Try checking https://fascinatedbox.gitlab.io/lily-docs/ and https://gitlab.com/FascinatedBox/lily -- it is really nice.
+
+Very robust alternative to both lua syntax and ES6 shenanigans.
